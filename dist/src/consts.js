@@ -1,0 +1,11 @@
+"use strict";
+exports.__esModule = true;
+exports.ARRAY_A_BIGGER_ARRAY_B = exports.INVALID_RANGE_VALUE = exports.INVALID_RANGE_LENGTH = exports.TEXT_NOT_POSITIVE = exports.MAX_VALUE_ARRAY = exports.MIN_VALUE_ARRAY = exports.MAX_LENGTH_ARRAY = exports.MIN_LENGTH_ARRAY = void 0;
+exports.MIN_LENGTH_ARRAY = 1;
+exports.MAX_LENGTH_ARRAY = 1000000;
+exports.MIN_VALUE_ARRAY = 1;
+exports.MAX_VALUE_ARRAY = 1000000000000;
+exports.TEXT_NOT_POSITIVE = "Entered value isnt positive integer";
+exports.INVALID_RANGE_LENGTH = "invalid length range";
+exports.INVALID_RANGE_VALUE = "invalid value range";
+exports.ARRAY_A_BIGGER_ARRAY_B = "array A bigger array B";
