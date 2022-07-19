@@ -19,7 +19,7 @@ export const main = (): void => {
 
       if (Utils.isFullEnteredArrayValues(arrayFromStdin)) {
         let lengthArrayA = arrayFromStdin[0];
-        //+1 - head of array
+        // +1 - head of array
         let lengthArrayB = arrayFromStdin[arrayFromStdin[0] + 1];
 
         // split entered array
