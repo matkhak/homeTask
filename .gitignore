@@ -32,9 +32,3 @@ yarn-error.log*
 
 
 .eslintcache
-
-
-.firebaserc
-.firebase
-firebase.json
-storybook-static
